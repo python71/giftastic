@@ -1,0 +1,33 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 36px;
+    background-color: rosybrown;
+}
+
+button {
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.header {
+    padding: 2% 2%;
+    background-color: rosybrown;
+}
+
+.test {
+    background-color: rosybrown;
+    margin-top: 2%;
+}
+
+#gifs-appear-here {
+    margin-bottom: 5%;
+}
+
+#gif-input {
+    padding: 4px;
+}
